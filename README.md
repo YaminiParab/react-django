@@ -8,4 +8,4 @@ This project is about integrating React with Django.
 - Django
 - Django Rest Framework
 - Django CORS Headers
-- React
+- React# react-django
